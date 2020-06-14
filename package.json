@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Professional README-Generator",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcizquierdo/README-Generator.git"
+  },
+  "author": "JC Izquierdo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcizquierdo/README-Generator/issues"
+  },
+  "homepage": "https://github.com/jcizquierdo/README-Generator#readme"
+}
