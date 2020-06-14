@@ -13,7 +13,7 @@ ${userInput.description}
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -28,8 +28,8 @@ ${userInput.usage}
 <br />
 Project has the ${userInput.license} license. 
 
-## Contributing
-${userInput.contributing}
+## Contributors
+${userInput.contributors}
 
 ## Tests
 ${userInput.tests}

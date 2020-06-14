@@ -33,16 +33,17 @@ function userInput(){
         message: "Choose the license for this project: ",
         choices: [
                 "MIT",
-                "Academic",
                 "GNU",
                 "ISC",
+                "Academic",
+                "Open",
                 "Mozilla",
-                "Open"
+                "Apache"
             ]
         },
         {
         type: "input",
-        name: "contributing",
+        name: "contributors",
         message: "Who are the contributors?"
         },
         {
