@@ -67,14 +67,13 @@ function userInput(){
         }
     ]);
 } 
-
-// Async function using util.promisify 
-  async function run() {
+ 
+  async function init() {
     try {
-        // Ask user questions and generate responses
+        // userinput
         const input = await userInput();
         const writeInput = writeReadme(input);
-        // Write new README.md to dist directory
+        // post info in readme file
         await writeAsync('./dist/README.md', writeInput);
         console.log('Wrote information to README.md');
     }   catch(err) {
@@ -82,4 +81,4 @@ function userInput(){
     }
   }
   
-  run();  
+  init();  

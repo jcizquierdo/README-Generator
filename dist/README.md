@@ -1,7 +1,7 @@
 
-<h1 align="center">lklk</h1>
+<h1 align="center">lk</h1>
   
-![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
 lk
@@ -22,9 +22,9 @@ lk
 lk
 
 ## License
-![badge](https://img.shields.io/badge/license-Open-brightgreen)
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
-Project has the Open license. 
+Project has the MIT license. 
 
 ## Contributing
 lk

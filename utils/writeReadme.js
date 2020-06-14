@@ -1,3 +1,4 @@
+// function to generate markdown for README
 function writeReadme(userInput) {
     return `
 <h1 align="center">${userInput.projectTitle}</h1>
